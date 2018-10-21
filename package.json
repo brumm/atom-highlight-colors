@@ -2,7 +2,7 @@
   "name": "highlight-colors",
   "main": "./lib/highlight-colors",
   "version": "0.1.0",
-  "description": "A short description of your package",
+  "description": "Simple and fast color highlighting",
   "keywords": [
     "color",
     "colors",
