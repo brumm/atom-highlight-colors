@@ -13,7 +13,7 @@
     "picker",
     "simple"
   ],
-  "repository": "https://github.com/atom/highlight-colors",
+  "repository": "https://github.com/brumm/atom-highlight-colors",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
