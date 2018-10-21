@@ -1,0 +1,33 @@
+{
+  "name": "highlight-colors",
+  "main": "./lib/highlight-colors",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+    "color",
+    "colors",
+    "pigments",
+    "highlight",
+    "visualization",
+    "preview",
+    "picker",
+    "simple"
+  ],
+  "repository": "https://github.com/atom/highlight-colors",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "consumedServices": {
+    "color-picker": {
+      "versions": {
+        "^1.0.0": "consumeColorPicker"
+      }
+    }
+  },
+  "dependencies": {
+    "css-color-list": "0.0.2",
+    "lodash.get": "^4.4.2",
+    "lodash.set": "^4.3.2"
+  }
+}

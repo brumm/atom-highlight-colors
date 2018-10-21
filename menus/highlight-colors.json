@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle highlight-colors",
+        "command": "highlight-colors:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "highlight-colors",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "highlight-colors:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
