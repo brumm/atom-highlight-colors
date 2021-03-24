@@ -1,5 +1,11 @@
 # highlight-colors
 
+---
+
+**Please note: I am not using Atom any more and probably won't respond to issues. If you're interested in taking over, please let me know.**
+
+---
+
 Simple and fast color highlighting. https://atom.io/packages/highlight-colors
 
 ![](https://i.imgur.com/hA0eFDc.png)
